@@ -58,8 +58,8 @@ Write 4–6 hooks across the chosen 2–3 categories. Start each from a template
 - **Opening shot**: what's on camera in the first second, something the creator can film or already has (a real photo, their hands at work, the actual place). A pattern interrupt here helps (see the delivery note in hooks.en.md).
 
 **Post hook**:
-- **Line 1**: works on its own before the "...more" cutoff, about 125 characters or fewer.
-- **Line 2** (optional): deepens the pull.
+- **Hook**: the first line, working on its own before the "...more" cutoff, about 125 characters or fewer.
+- **Line 2** (optional): the context or proof that deepens the pull. Background belongs here, not in the Hook.
 
 Every hook ends with **Then**: the actual next line the creator says or writes right after the hook, in their voice. It starts delivering what the hook promised, so the video or post doesn't stall after the opening.
 
@@ -70,9 +70,9 @@ Write hooks only. Write full scripts or captions only if the user asks.
 Each hook passes all four, or you rewrite it until it does:
 
 1. **Specific**: it contains a real detail from the user's story, and no bracket or generic placeholder survives ("[result]", "my client", "amazing results"). Quotes are the user's own words, never invented dialogue.
-2. **Turn**: it has tension, a "but" or "therefore" (a cost, a contradiction, an open question, a before and after). A flat statement of fact fails.
-3. **Fits the format**: video hook ≤ ~12 words; post line 1 ≤ ~125 characters. Count; don't estimate.
-4. **Pays off**: the story the user told can deliver what the hook promises, in every part (hook, on-screen text, opening shot, post lines, the Then line). A hook that stretches the facts ("hid her face for 4 months" when she hid it for one appointment) or promises a bigger story than they have fails.
+2. **Turn up front**: the tension (a cost, a contradiction, an open question, a before and after) is in the Hook itself, ideally in its first sentence. A Hook that opens with background and saves the surprise for later reads like a bio and fails: "Every gym I worked at sold 6-day plans. In my studio I cap clients at three sessions" is two facts, not a hook.
+3. **Fits the format**: video Hook ≤ ~12 words; post Hook ≤ ~125 characters. Count; don't estimate.
+4. **Pays off**: the story the user told can deliver what the hook promises, in every part (Hook, on-screen text, opening shot, Line 2, the Then line). A hook that stretches the facts ("hid her face for 4 months" when she hid it for one appointment) or promises a bigger story than they have fails.
 
 Show only hooks that pass; there is no need to show the checking.
 
@@ -91,24 +91,24 @@ Keep it scannable: a short line naming the categories used, then the hooks. Clos
 - **Then**: "So I asked him her favourite colour. He didn't know."
 
 **2. Curiosity · post (Instagram caption)**
-- **Line 1**: A man asked me for a 40th birthday bouquet. Then he couldn't answer my first question.
+- **Hook**: A man asked me for a 40th birthday bouquet. Then he couldn't answer my first question.
 - **Line 2**: It's the question I ask everyone. Most people know the answer.
 - **Then**: "The question was her favourite colour. He called his daughter right there at my counter."
 
 **Dev, a personal trainer.** Story: every gym he worked at sold 6-day plans. When he opened his own studio he capped clients at three 30-minute sessions a week. Jess, a night-shift nurse who had quit every gym in under two months, has now trained with him for 14 months.
 
 **3. Contrarian · post (X)**
-- **Line 1**: Every gym I worked at sold 6-day plans. In my own studio I cap clients at three 30-minute sessions.
-- **Line 2**: My longest client is a night-shift nurse. She's been here 14 months.
-- **Then**: "Before me, Jess had never lasted two months at a gym."
+- **Hook**: Stop selling 6-day plans. My longest client trains 90 minutes a week.
+- **Line 2**: She's a night-shift nurse. Every gym before mine lost her in under two months.
+- **Then**: "14 months in, here's the plan I gave her, and why it has three days, not six."
 
 **Lucía, a bakery owner.** Story: to save $90 a month she switched to a cheaper flour. That week the loaves came out flat, and she threw away 60 of them. She went back to her old mill the next Monday and took a photo of the flat loaves before binning them.
 
 **4. Mistake · video (TikTok)**
-- **Hook**: "I saved $90 on flour and threw away 60 loaves."
-- **On screen**: "Saved $90. Binned 60 loaves."
-- **Opening shot**: her photo of the flat loaves lined up on the bench
-- **Then**: "Same recipe. Same oven. The only thing I changed was the flour."
+- **Hook**: "The cheapest decision I made this year cost me 60 loaves."
+- **On screen**: "Cheapest decision. 60 loaves gone."
+- **Opening shot**: a flat loaf dropped on the steel bench with a dull thud
+- **Then**: "I switched flour to save $90 a month. Same recipe, same oven."
 
 ## 7. Offer a creator profile
 

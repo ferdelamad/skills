@@ -9,7 +9,7 @@ Built for creators and small-business owners in any niche: the florist, the trai
 1. **A short interview.** A few quick questions, each with an example answer, to pull out the moment that matters: what happened, a real detail, what almost went wrong, and where you'll post. Already told your story? It asks one or two follow-ups. Say "just give me hooks" and it stops asking.
 2. **Category suggestions.** It picks the 2–3 hook categories that fit your story and tells you why. You can also choose from the full menu below or ask for one by name ("give me contrarian hooks").
 3. **4–6 hooks**, each labeled with its category, in the right shape for where you're posting.
-4. **A quality check** before you see anything. Every hook has to use a real detail from your story, carry some tension, fit the format, and make a promise your story can keep. Hooks that fail get rewritten.
+4. **A quality check** before you see anything. Every hook has to use a real detail from your story, put its tension up front (not after a sentence of background), fit the format, and make a promise your story can keep. Hooks that fail get rewritten.
 5. **A creator profile** you can paste next time (niche, audience, voice, signature stories) to skip half the questions.
 
 ## What you get
@@ -21,8 +21,8 @@ Built for creators and small-business owners in any niche: the florist, the trai
 - **Then**: your next line, so the video delivers what the hook promised.
 
 **Post hooks**
-- **Line 1**: lands before the "...more" cutoff (about 125 characters).
-- **Line 2** (optional): deepens the pull.
+- **Hook**: the first line, landing before the "...more" cutoff (about 125 characters), with the surprise up front.
+- **Line 2** (optional): the context or proof that deepens the pull.
 - **Then**: the line that starts paying it off.
 
 ## Example
@@ -46,10 +46,10 @@ Built for creators and small-business owners in any niche: the florist, the trai
 | Category | Use it when | Example |
 | --- | --- | --- |
 | **Transformation** | You're sharing a journey: where you started, where you are, what moved you. | "Two years ago I baked from my apartment kitchen. Today we sell out by 10 a.m." |
-| **Mistake** | A failure, a wrong call or an expensive lesson. | "I saved $90 on flour and threw away 60 loaves." |
+| **Mistake** | A failure, a wrong call or an expensive lesson. | "The cheapest decision I made this year cost me 60 loaves." |
 | **Turning Point** | Something changed your thinking, your business or your approach. | "I almost closed the studio in March. Then one client sent a voice note." |
 | **Behind-the-Scenes** | You're showing the work, decisions and details people never see. | "This bouquet took four minutes to sell and three days to make." |
-| **Contrarian** | Your experience goes against the usual advice in your field. | "Every gym I worked at sold 6-day plans. I cap my clients at three." |
+| **Contrarian** | Your experience goes against the usual advice in your field. | "Stop selling 6-day plans. My longest client trains 90 minutes a week." |
 | **Relatable** | You want to connect through a struggle your audience knows too well. | "Ever rebooked the same no-show three times and still felt bad charging her?" |
 | **Client/Customer** | A real moment, result or lesson from working with someone. | "He'd been married 12 years and had never bought her flowers." |
 | **Curiosity** | You want to open a loop that makes people need the next line. | "There's one question I ask every client before I touch their skin." |
