@@ -36,9 +36,9 @@ You need these ingredients:
 
 Round 2 (only if needed) covers what's different now, the audience, and what they should feel or do.
 
-**Escape hatch.** If the user says "just give me hooks" (or anything like it) at any point, stop asking and generate with what you have. Where a story detail is missing, use what is true of their craft itself (the process, the timing, the materials, the sounds and textures any owner of that business can show) rather than inventing events, people, or numbers. If a hook leans on an assumed detail ("two days" for a sourdough rise), add a short "(check: …)" after it. After the hooks, ask in one line for the single detail that would sharpen them most.
+**Escape hatch.** If the user says "just give me hooks" (or anything like it) at any point, stop asking and generate with what you have. The one exception is the format: if it's still unknown, ask for it in a single line ("Reel, TikTok, post or tweet?") before writing, because video and post hooks are built differently. Where a story detail is missing, use what is true of their craft itself (the process, the timing, the materials, the sounds and textures any owner of that business can show) rather than inventing events, people, or numbers. If a hook leans on an assumed detail ("two days" for a sourdough rise), add a short "(check: …)" after it. After the hooks, ask in one line for the single detail that would sharpen them most.
 
-The gathering step is done when you have at least the moment or a concrete detail, plus the format, or when the user has opted out.
+The gathering step is done when you have the format plus at least the moment or a concrete detail, or the format plus an opt-out.
 
 ## 3. Choose categories
 
@@ -52,16 +52,16 @@ Read [hooks.en.md](hooks.en.md). Suggest the 2–3 categories that best fit this
 
 Write 4–6 hooks across the chosen 2–3 categories. Start each from a template in that category, then fill every blank with a real detail from the story and reshape the wording until it sounds like this person talking. Label each hook with its category.
 
-**Video hook**, three layers:
-- **Say**: the spoken first line, about 12 words or fewer.
-- **Text**: the on-screen overlay, a few words that add to the spoken line rather than repeating it. Many people watch with the sound off, so it must make sense read alone.
-- **Show**: the first-frame visual, something the creator can film or already has (a real photo, their hands at work, the actual place). A pattern interrupt here helps (see the delivery note in hooks.en.md).
+**Video hook**:
+- **Hook**: the opening line, about 12 words or fewer. It goes on screen as big text over the first frame (often the cover people tap) and is said out loud at the same time, so it lands with or without sound.
+- **On screen** (only when needed): a shorter version of the same line, if the full hook is too long to read over the video. Same idea, fewer words; never a different message.
+- **Opening shot**: what's on camera in the first second, something the creator can film or already has (a real photo, their hands at work, the actual place). A pattern interrupt here helps (see the delivery note in hooks.en.md).
 
 **Post hook**:
 - **Line 1**: works on its own before the "...more" cutoff, about 125 characters or fewer.
 - **Line 2** (optional): deepens the pull.
 
-Every hook ends with **Next**: one line saying what the story does right after the hook, so the hook leads straight into the story it promised.
+Every hook ends with **Then**: the actual next line the creator says or writes right after the hook, in their voice. It starts delivering what the hook promised, so the video or post doesn't stall after the opening.
 
 Write hooks only. Write full scripts or captions only if the user asks.
 
@@ -71,8 +71,8 @@ Each hook passes all four, or you rewrite it until it does:
 
 1. **Specific**: it contains a real detail from the user's story, and no bracket or generic placeholder survives ("[result]", "my client", "amazing results"). Quotes are the user's own words, never invented dialogue.
 2. **Turn**: it has tension, a "but" or "therefore" (a cost, a contradiction, an open question, a before and after). A flat statement of fact fails.
-3. **Fits the format**: spoken line ≤ ~12 words; post line 1 ≤ ~125 characters. Count; don't estimate.
-4. **Pays off**: the story the user told can deliver what the hook promises, in every layer (spoken line, overlay, visual, post lines). A hook that stretches the facts ("hid her face for 4 months" when she hid it for one appointment) or promises a bigger story than they have fails.
+3. **Fits the format**: video hook ≤ ~12 words; post line 1 ≤ ~125 characters. Count; don't estimate.
+4. **Pays off**: the story the user told can deliver what the hook promises, in every part (hook, on-screen text, opening shot, post lines, the Then line). A hook that stretches the facts ("hid her face for 4 months" when she hid it for one appointment) or promises a bigger story than they have fails.
 
 Show only hooks that pass; there is no need to show the checking.
 
@@ -80,20 +80,35 @@ Show only hooks that pass; there is no need to show the checking.
 
 Keep it scannable: a short line naming the categories used, then the hooks. Close by offering the creator profile (step 7) and asking whether they want more hooks in another category or a full script for a favourite.
 
-### Example (invented creator: Mara, a florist)
+### Examples (invented creators)
 
-Story: a man ordered a bouquet for his wife's 40th, then admitted he'd never bought her flowers in 12 years of marriage. Mara asked what her favourite colour was. He didn't know, so he called his daughter from the shop.
+**Mara, a florist.** Story: a man ordered a bouquet for his wife's 40th, then admitted he'd never bought her flowers in 12 years of marriage. Mara asked what her favourite colour was. He didn't know, so he called his daughter from the shop.
 
-**1. Client/Customer · video**
-- **Say**: "He'd been married 12 years and had never bought her flowers."
-- **Text**: "He didn't know her favourite colour"
-- **Show**: close-up of his phone on the counter, mid-call, "Lily" on screen
-- **Next**: he calls his daughter from the shop, and what she tells him decides the bouquet.
+**1. Client/Customer · video (Reel)**
+- **Hook**: "He'd been married 12 years and had never bought her flowers."
+- **On screen**: "12 years. Never bought her flowers."
+- **Opening shot**: his phone on the counter mid-call, "Lily" on the screen
+- **Then**: "So I asked him her favourite colour. He didn't know."
 
 **2. Curiosity · post (Instagram caption)**
 - **Line 1**: A man asked me for a 40th birthday bouquet. Then he couldn't answer my first question.
 - **Line 2**: It's the question I ask everyone. Most people know the answer.
-- **Next**: the question was her favourite colour, and the phone call that followed.
+- **Then**: "The question was her favourite colour. He called his daughter right there at my counter."
+
+**Dev, a personal trainer.** Story: every gym he worked at sold 6-day plans. When he opened his own studio he capped clients at three 30-minute sessions a week. Jess, a night-shift nurse who had quit every gym in under two months, has now trained with him for 14 months.
+
+**3. Contrarian · post (X)**
+- **Line 1**: Every gym I worked at sold 6-day plans. In my own studio I cap clients at three 30-minute sessions.
+- **Line 2**: My longest client is a night-shift nurse. She's been here 14 months.
+- **Then**: "Before me, Jess had never lasted two months at a gym."
+
+**Lucía, a bakery owner.** Story: to save $90 a month she switched to a cheaper flour. That week the loaves came out flat, and she threw away 60 of them. She went back to her old mill the next Monday and took a photo of the flat loaves before binning them.
+
+**4. Mistake · video (TikTok)**
+- **Hook**: "I saved $90 on flour and threw away 60 loaves."
+- **On screen**: "Saved $90. Binned 60 loaves."
+- **Opening shot**: her photo of the flat loaves lined up on the bench
+- **Then**: "Same recipe. Same oven. The only thing I changed was the flour."
 
 ## 7. Offer a creator profile
 
