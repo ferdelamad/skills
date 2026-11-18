@@ -1,10 +1,10 @@
 {
   "name": "ferdelamad",
   "owner": {
-    "name": "Fernando",
+    "name": "DeadCode",
     "url": "https://github.com/ferdelamad"
   },
-  "description": "Fernando's agent skills, as an installable Claude Code plugin.",
+  "description": "DeadCode's agent skills, as an installable Claude Code plugin.",
   "plugins": [
     {
       "name": "ferdelamad-skills",
