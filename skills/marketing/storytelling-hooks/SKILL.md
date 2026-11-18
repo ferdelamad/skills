@@ -5,7 +5,7 @@ description: Writes storytelling hooks, the opening line of a short video (Reels
 
 # Storytelling hooks
 
-A hook is a promise: the first line tells the audience a story is coming and makes them want it. Your job is to find the real story first, then write openings that promise exactly that story. The hook library is in [hooks.en.md](hooks.en.md).
+A storytelling hook is the first sentence of a story, said the way a person starts telling a friend what happened: "I thought I was doing everything right, until this happened." (or, with one plain detail, "…until launch day.") It names the kind of story coming (a mistake, a turning point, a decision) and holds back the details, so the audience wants the next line. Your job is to find the real story first, then open it with a proven hook sentence. The hook library is in [hooks.en.md](hooks.en.md).
 
 Work in English unless the user writes in another language. If they do and no `hooks.<lang>.md` exists for it, write natural hooks directly in their language from the same patterns, the way a native creator would say them, not word-for-word translations of the English templates.
 
@@ -17,7 +17,7 @@ If the user pasted a creator profile (or one is in the conversation or a `creato
 
 You need these ingredients:
 
-- **The moment**: the specific moment something changed, small enough to happen in about five seconds (the client looked in the mirror and stopped covering her face; the first oven tray came out burnt).
+- **The moment**: the specific moment something changed, small enough to happen in about five seconds (the client looked in the mirror and stopped covering her face; the launch-day dashboard showed 3 signups).
 - **A concrete detail**: a named person, a scene, an object, a number, a sentence someone said.
 - **The tension**: the setback, the doubt, the cost, what almost went wrong, and what it taught.
 - **What's different now**.
@@ -25,7 +25,7 @@ You need these ingredients:
 - **Feeling or action**: what they should feel or do afterwards.
 - **Format**: video (Reels/TikTok/Shorts) or post (and which platform).
 
-**Fast path.** If the user already told a story, list what's missing and ask only 1–2 short follow-ups for the most important gaps (usually the moment, a detail, or the format). Then move on.
+**Fast path.** If the user already told a story and you have the format plus the moment or a detail, write the hooks now and ask one sharpening question after them. If the format or both the moment and a detail are missing, ask only 1–2 short follow-ups first.
 
 **Interview.** If they gave only a topic, ask at most two rounds of 3–4 short questions. Give every question an example answer in their niche so they never face a blank. Round 1 targets the story; round 2 fills whatever is still missing. For example:
 
@@ -36,32 +36,41 @@ You need these ingredients:
 
 Round 2 (only if needed) covers what's different now, the audience, and what they should feel or do.
 
-**Escape hatch.** If the user says "just give me hooks" (or anything like it) at any point, stop asking and generate with what you have. The one exception is the format: if it's still unknown, ask for it in a single line ("Reel, TikTok, post or tweet?") before writing, because video and post hooks are built differently. Where a story detail is missing, use what is true of their craft itself (the process, the timing, the materials, the sounds and textures any owner of that business can show) rather than inventing events, people, or numbers. If a hook leans on an assumed detail ("two days" for a sourdough rise), add a short "(check: …)" after it. After the hooks, ask in one line for the single detail that would sharpen them most.
+**Escape hatch.** If the user says "just give me hooks" (or anything like it) at any point, stop asking and generate with what you have. The one exception is the format: if it's still unknown, ask for it in a single line ("Reel, TikTok, post or tweet?") before writing, because video and post hooks are built differently. With no story, prefer templates that need no blanks or only blanks about their work itself ("Nobody prepares you for this part of [business]", "Here's what nobody sees behind [result]"). Never put an assumed number, event, scene or practice in the Hook; fill blanks only with their job or niche ("detailing cars for a living"). If the Then line needs one, add a short "(check: …)" after it. After the hooks, ask in one line for the single detail that would sharpen them most.
 
 The gathering step is done when you have the format plus at least the moment or a concrete detail, or the format plus an opt-out.
 
 ## 3. Choose categories
 
-Read [hooks.en.md](hooks.en.md). Suggest the 2–3 categories that best fit this story, each with a one-line reason tied to their story (e.g., "**Mistake**: you lost $800 on that wholesale order, and the cost is the hook"). In the same message, offer the alternative: they can pick from the full menu or name a category.
+Read [hooks.en.md](hooks.en.md). Suggest the 2–3 categories that best fit this story, each with a one-line reason tied to their story, or to their work if they gave no story (e.g., "**Mistake**: you lost $800 on that wholesale order, and the cost is the story"). In the same message, offer the alternative: they can pick from the full menu or name a category.
 
 - If they ask for the menu, list all 15 categories, each with one sentence and one example written for their story.
 - If they named a category up front ("give me contrarian hooks"), skip the suggestion and use it.
-- If they opted out of questions, pick the 2–3 categories yourself, state them with the one-line reasons, and generate in the same reply.
+- On the fast path (they told the story, you asked 1–2 follow-ups), or if they opted out of questions, don't wait for approval: state the 2–3 categories with their reasons and write the hooks in the same reply. Offer the full menu at the end.
+- Only after a full interview, when the story could go several ways, ask them to pick before writing.
 
 ## 4. Write the hooks
 
-You will show 4–6 hooks across the chosen 2–3 categories, but draft at least three times that many first: try several templates per category and several wordings of the best ones. Start each from a template, fill every blank with a real detail from the story, and reshape the wording until it sounds like this person talking. Then keep only the strongest drafts that pass step 5. The first wording is rarely the best one. Label each hook with its category.
+The templates in hooks.en.md are proven hook sentences. They are the backbone of every hook you write, not loose inspiration.
+
+- **Keep the template's sentence.** Change as few words as possible. Fill each blank with a few plain words a person would say out loud ("launch day", "a client", "my second year"). Many of the best hooks fill one blank, or none: "I thought I was doing everything right, until launch day."
+- **Sound like a person starting a story.** First person, full sentences, conversational. No headline fragments, no colons, no stat lines. "8 months building my app. Launch day: 3 signups." is a stat line, not a hook.
+- **Hold the details back.** The hook points at the story with words like "this", "one thing", "here's what", "until", "then". The striking specifics (the numbers, the names, the quote, the twist) go in Line 2 and Then, where they pay off. Put at most one number in the hook, and only when the template requires it ("After [number] years…"). Never spend a result number (signups, sales, revenue, churn, before/after figures) in the hook; it belongs in Line 2 or Then.
+- **Start at the moment, when the story has one.** If the story contains a striking moment (someone says "stop", the client cries, the dashboard shows 3), also draft hooks that open right at that moment and stop before the explanation: "Halfway through this cover-up, he asked me to stop." These often beat a template, because the tension is real, so at least one of the hooks you show should be built this way. They still follow every rule above: a person telling the story in one plain sentence, holding back the why.
+- **Use stock endings sparingly.** Generic tails like "I didn't expect what happened next" or "Here's what we found" can appear at most once per set, and only when nothing from the real story does the job better.
+
+Draft at least three times as many hooks as you'll show, using several templates per category, then show the 4–6 strongest that pass step 5. If fewer pass, show those and name the one detail that would unlock more. Label each with its category.
 
 **Video hook**:
-- **Hook**: the opening line, about 12 words or fewer. It goes on screen as big text over the first frame (often the cover people tap) and is said out loud at the same time, so it lands with or without sound.
-- **On screen** (only when needed): a shorter version of the same line, if the full hook is too long to read over the video. Same idea, fewer words; never a different message.
+- **Hook**: the opening sentence, about 15 words or fewer. It goes on screen as big text over the first frame (often the cover people tap) and is said out loud at the same time, so it lands with or without sound.
+- **On screen** (only when needed): a shorter version of the same sentence, if the full hook is too long to read over the video. Same words, trimmed; never a different message. This line may be a fragment; the no-fragment rule applies to the Hook.
 - **Opening shot**: what's on camera in the first second, something the creator can film or already has (a real photo, their hands at work, the actual place). A pattern interrupt here helps (see the delivery note in hooks.en.md).
 
 **Post hook**:
 - **Hook**: the first line, working on its own before the "...more" cutoff, about 125 characters or fewer.
-- **Line 2** (optional): the context or proof that deepens the pull. Background belongs here, not in the Hook.
+- **Line 2** (optional): the first concrete detail, which deepens the pull.
 
-Every hook ends with **Then**: the actual next line the creator says or writes right after the hook, in their voice. It starts delivering what the hook promised, so the video or post doesn't stall after the opening.
+Every hook ends with **Then**: the actual next line the creator says or writes right after the hook, in their voice. This is where the specifics land: it starts delivering what the hook promised, so the video or post doesn't stall after the opening.
 
 Write hooks only. Write full scripts or captions only if the user asks.
 
@@ -69,13 +78,12 @@ Write hooks only. Write full scripts or captions only if the user asks.
 
 Each hook passes all six, or you rewrite it until it does:
 
-1. **Specific**: it contains a real detail from the user's story, and no bracket or generic placeholder survives ("[result]", "my client", "amazing results"). Quotes are the user's own words, never invented dialogue.
-2. **Turn up front**: the tension (a cost, a contradiction, an open question, a before and after) is in the Hook itself, ideally in its first sentence. A Hook that opens with background and saves the surprise for later reads like a bio and fails: "Every gym I worked at sold 6-day plans. In my studio I cap clients at three sessions" is two facts, not a hook.
-3. **Fits the format**: video Hook ≤ ~12 words; post Hook ≤ ~125 characters. Count; don't estimate.
-4. **Pays off**: the story the user told can deliver what the hook promises, in every part (Hook, on-screen text, opening shot, Line 2, the Then line). A hook that stretches the facts ("hid her face for 4 months" when she hid it for one appointment) or promises a bigger story than they have fails.
-
-5. **Leaves a question open**: the Hook makes people want the next line. It raises a why, how or what-happened and leaves it unanswered. A Hook that tells the whole story in one line fails: "I spent 8 months building, got 3 signups, and fixed it with one feature" leaves nothing to find out.
-6. **Scroll test**: read only the Hook as a stranger who doesn't know this creator and is scrolling fast. Would they stop? If it sounds like a bio, a headline about yourself, a summary, or the start of a lecture ("Here's what I learned about…", "Today I want to talk about…", "So, …"), rewrite it so the most surprising detail comes first.
+1. **Story voice**: it reads like a person beginning to tell a story, in a full sentence that stays close to a library template. Use first person; "you" is fine for Relatable and Question hooks, which speak to the audience. Fragments, colons, stat lines and headline phrasing fail.
+2. **Holds back**: it names the kind of story and leaves the why, how or what-happened open. A hook that tells the whole story, or spends every number up front, fails: "I spent 8 months building, got 3 signups, and fixed it with one feature" leaves nothing to find out.
+3. **Tension up front**: the first sentence carries the tension (a cost, a contradiction, an "until", a "not anymore") or an explicit promise of one ("something I'll never forget", "one thing", "this part"). A hook that opens with background and saves the surprise reads like a bio and fails: "Every gym I worked at sold 6-day plans. In my studio I cap clients at three sessions."
+4. **True to their story**: what the hook hints at actually happened, and Line 2 and Then use real details from the user. Quotes are the user's own words, never invented. Nothing is stretched ("hid her face for 4 months" when she hid it for one appointment fails). This includes what the template itself claims (surprise, almost quitting, never forgetting, a habit like "I never use X anymore"): use it only if the user said it or it clearly follows from their story.
+5. **Fits the format**: video Hook ≤ ~15 words; post Hook ≤ ~125 characters. Count; don't estimate.
+6. **Scroll test**: read only the Hook as a stranger who doesn't know this creator and is scrolling fast. Would they want the next sentence? If it sounds like a bio, a summary or the start of a lecture ("Here's what I learned about…", "Today I want to talk about…"), rewrite it from a different template. Promise hooks that hold back everything ("A client told me something I'll never forget") are welcome: judge them together with the Then line, which must deliver a detail only this creator has. With no story, the Opening shot and the "(check: …)" Then line carry that detail instead.
 
 Show only hooks that pass; there is no need to show the checking.
 
@@ -88,10 +96,10 @@ Keep it scannable: a short line naming the categories used, then the hooks. Clos
 **Mara, a florist.** Story: a man ordered a bouquet for his wife's 40th, then admitted he'd never bought her flowers in 12 years of marriage. Mara asked what her favourite colour was. He didn't know, so he called his daughter from the shop.
 
 **1. Client/Customer · video (Reel)**
-- **Hook**: "He'd been married 12 years and had never bought her flowers."
-- **On screen**: "12 years. Never bought her flowers."
+- **Hook**: "A customer told me something last week I still can't stop thinking about."
+- **On screen**: "Something I can't stop thinking about"
 - **Opening shot**: his phone on the counter mid-call, "Lily" on the screen
-- **Then**: "So I asked him her favourite colour. He didn't know."
+- **Then**: "He'd been married 12 years and had never bought her flowers."
 
 **2. Curiosity · post (Instagram caption)**
 - **Hook**: A man asked me for a 40th birthday bouquet. Then he couldn't answer my first question.
@@ -101,28 +109,29 @@ Keep it scannable: a short line naming the categories used, then the hooks. Clos
 **Dev, a personal trainer.** Story: every gym he worked at sold 6-day plans. When he opened his own studio he capped clients at three 30-minute sessions a week. Jess, a night-shift nurse who had quit every gym in under two months, has now trained with him for 14 months.
 
 **3. Contrarian · post (X)**
-- **Hook**: Stop selling 6-day plans. My longest client trains 90 minutes a week.
-- **Line 2**: She's a night-shift nurse. Every gym before mine lost her in under two months.
-- **Then**: "14 months in, here's the plan I gave her, and why it has three days, not six."
+- **Hook**: Everyone told me to sell 6-day plans. I did the opposite.
+- **Line 2**: My clients train three times a week, 30 minutes each.
+- **Then**: "My longest client is a night-shift nurse who'd never lasted two months at a gym. She's been with me 14 months."
 
 **Ana, a solo developer.** Story: she spent 8 months building a scheduling app on her own. Launch day brought 3 signups. She then messaged 40 people who had reviewed a competitor's app; 11 replied, and 9 asked for the same thing: a Google Calendar sync she had skipped as "too small". She built it over a weekend.
 
 **4. Mistake · video (Reel)**
-- **Hook**: "8 months building my app. Launch day: 3 signups."
+- **Hook**: "I thought I was doing everything right, until launch day."
 - **Opening shot**: her analytics dashboard on the laptop, the user count reading 3
-- **Then**: "So I messaged 40 people using my competitor's app. Nine asked for the same thing."
+- **Then**: "I'd spent eight months building it, and three people signed up. So I messaged 40 people using my competitor's app."
 
 (No On screen line: the Hook is already short enough to read over the video.)
 
 ### Weak vs strong
 
-The checks in step 5 exist because first drafts tend to fail in these ways:
+First drafts tend to fail in these ways:
 
 | Weak first draft | Why it fails | Stronger |
 | --- | --- | --- |
-| "Every gym I worked at sold 6-day plans. In my studio I cap clients at three sessions." | Opens with background, so it reads like a bio. The surprise arrives too late. | "Stop selling 6-day plans. My longest client trains 90 minutes a week." |
-| "I spent 8 months building, got 3 signups, and fixed it with one feature." | Tells the whole story. Nothing is left to find out. | "8 months building my app. Launch day: 3 signups." |
-| "Here's what I learned about talking to customers." | Generic: no detail, no tension, the start of a lecture. | "Nine of my first 11 replies asked for the feature I'd skipped." |
+| "8 months building my app. Launch day: 3 signups." | A stat line, not a person talking, and it spends the details the story needs later. | "I thought I was doing everything right, until launch day." |
+| "Every gym I worked at sold 6-day plans. In my studio I cap clients at three sessions." | Opens with background, so it reads like a bio. | "Everyone told me to sell 6-day plans. I did the opposite." |
+| "I spent 8 months building, got 3 signups, and fixed it with one feature." | Tells the whole story. Nothing is left to find out. | "I wasted 8 months learning this lesson the hard way." |
+| "Here's what I learned about talking to customers." | Generic, no tension, the start of a lecture. | "One customer question changed how I build my app." |
 
 ## 7. Offer a creator profile
 

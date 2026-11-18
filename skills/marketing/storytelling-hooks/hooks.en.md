@@ -2,7 +2,7 @@
 
 Fifteen storytelling hook categories. Each has a "use when" line, fill-in-the-blank templates (blanks in [square brackets]), and a format tip where video and post behave differently.
 
-Templates are skeletons, not finished lines. Fill every blank with a real detail from the creator's story (a number, a name, a place, an object, a sentence someone said), then trim words until the line still lands. If a blank cannot be filled from the story, pick a different template.
+These are proven hook sentences: first person, conversational, and deliberately holding back the details. Keep the sentence as written and fill each blank with a few plain words from the creator's story ("launch day", "a client", "my second year"). Templates without blanks can be used as they are. The striking specifics (numbers, names, quotes) usually belong in the line after the hook, not inside it. If a blank can't be filled truthfully from the story, pick a different template.
 
 ## Contents
 
@@ -34,19 +34,19 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 - Nobody talks about how hard it is to go from [stage A] to [stage B].
 - The biggest difference between old me and new me isn't [obvious thing]. It's [unexpected thing].
 - I used to believe [old belief]. Then [one experience] happened.
-- What [number] months of [pursuing goal] taught me.
+- Here's what [number] months of [pursuing goal] taught me.
 - [Result] didn't happen overnight. It took [specific grind].
 - If I had to start [goal] over, I'd do 3 things differently.
-- Same [person/place/tool], [timeframe] apart. The only thing that changed was [one thing].
+- It's the same [person/place/tool] [timeframe] later. The only thing that changed was [one thing].
 
-**Video:** before/after works best when the "before" is shown, not described. Open on the old photo, old space, old number.
-**Post:** put the two endpoints in the first line; the reader fills the gap with curiosity.
+**Video:** before/after works best when the "before" is shown, not described. Open on the old photo or the old space while you say the line.
+**Post:** name where you started in the first line; let the reader wonder how you got here.
 
 ## 2. Mistake
 
 **Use when** the creator paid for a lesson with time, money, or an opportunity, and can say exactly what it cost.
 
-- The mistake that cost me [specific time/money/opportunity].
+- The mistake that cost me [time/money/opportunity] was...
 - I thought I was doing everything right, until [moment it fell apart].
 - I wasted [amount] learning this the hard way.
 - One small decision, [decision], turned into a much bigger problem.
@@ -56,22 +56,22 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 - If you're about to [action], learn from my mistake first.
 - I charged [low price] for [service] for [time]. Here's what that really cost.
 
-**Video:** say the cost out loud in the first line; the exact number is the hook.
-**Post:** lead with the cost, save the lesson for line two or later.
+**Video:** name that it cost you, not yet what the mistake was; the mistake is the next line.
+**Post:** the cost can go in line one; save the mistake and the lesson for line two or later.
 
 ## 3. Turning Point
 
 **Use when** one moment, conversation, or realization split the story into before and after.
 
 - Everything changed the day I understood [insight].
-- I was about to give up on [goal]. Then [moment].
+- I almost gave up on [goal] until one thing happened.
 - One conversation with [person] changed how I [do the thing].
 - I didn't expect [small decision] to matter this much.
 - The day I stopped [old habit], [specific change].
 - I was ready to quit [thing]. Then I found [discovery].
 - One opportunity I almost missed changed the direction of [business/career].
-- The exact moment I realized I had to change [approach].
-- [Person] said one sentence that rewired how I think about [topic]: "[short quote]."
+- Here's the moment I realized I had to change [approach].
+- [Person] said one sentence that changed how I think about [topic].
 
 **Video:** name the moment in concrete terms: the day, the room, the message on the screen.
 **Post:** a short quote from the turning-point conversation makes a strong second line.
@@ -80,18 +80,18 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 
 **Use when** the audience sees the finished result but not the work, decisions, or details behind it.
 
-- What nobody sees behind [visible result].
+- Here's what nobody sees behind [visible result].
 - This looks like an easy win. It took [time/effort/attempts].
-- What happened before [final result] went live.
-- What building [business/product] actually looks like.
+- Let me show you what happened before [final result].
+- This is what building [business/product] really looks like.
 - The most important part of [project] never made it into the post.
-- From [first sketch/idea] to [finished thing]: the real version.
-- Behind the scenes of [project], including the part that went wrong.
+- Here's how [thing] went from [first idea] to what you see now.
+- I'll show you the part of [project] that went wrong.
 - The result looks simple. Getting there was not.
 - It's [time] and I'm still [unglamorous task]. This is the part of [job] you don't see.
 
 **Video:** the first frame should be the mess, not the polished result.
-**Post:** contrast the visible result with one specific number of hours, attempts, or drafts.
+**Post:** set up the gap between how it looks and what it took; the hours, attempts or drafts go in line two.
 
 ## 5. Contrarian
 
@@ -100,8 +100,8 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 - Everyone told me to [common advice]. I did the opposite.
 - I used to agree that [popular belief]. Not anymore.
 - [Common advice] sounds smart. It doesn't always work.
-- Why I stopped [standard practice].
-- This might be unpopular: [opinion].
+- Here's why I stopped [standard practice].
+- I know this might be unpopular, but [opinion].
 - What works for most [people in field] didn't work for me.
 - The best thing I did for [business/goal] was stop doing what everyone recommends.
 - I wish more [people in field] questioned [industry advice].
@@ -120,9 +120,9 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 - The hardest part of [goal] is starting again after [setback].
 - I know I'm not the only one who [embarrassing/common habit].
 - Something I wish someone had told me when I started [thing].
-- Worked hard all [week/year] and still feel behind?
-- This is your reminder that [lesson].
-- POV: it's [time] and you're [relatable scene].
+- Ever worked hard all [week/year] and still felt behind?
+- Here's something I wish I'd heard on my worst day in [business].
+- It's [time] and I'm still [relatable task]. Anyone else?
 
 **Video:** act out or show the situation; the viewer should recognize themselves before you speak.
 **Post:** use "you" in line one and a small, oddly specific detail in line two.
@@ -136,8 +136,8 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 - How one small change helped [client] [result].
 - One customer question changed how I [deliver service].
 - I learned more from [failed project] than from my best one.
-- What happened when we stopped [old approach] for [client].
-- A client told me something I'll never forget: "[quote]."
+- Here's what happened when we stopped [old approach] for [client].
+- A client told me something I'll never forget.
 - The result was great. The lesson behind it was better.
 - [Client] walked in [state/feeling]. [Timeframe] later, [specific change].
 
@@ -155,7 +155,7 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 - I tried [action]. I didn't expect what happened next.
 - The part of [experience] nobody saw coming.
 - Something didn't add up, so I dug in.
-- The answer was in the one place I hadn't checked: [place].
+- The answer was in the one place I hadn't checked.
 - I finally found out why [puzzling thing]. It wasn't [obvious guess].
 
 **Video:** show the odd thing in frame without explaining it.
@@ -172,7 +172,7 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 - The one rule that changed how I [do the thing].
 - I used to overcomplicate [task]. Now I follow one rule.
 - My best lesson about [topic] came from [unexpected place].
-- What [number] failed attempts at [thing] taught me.
+- Here's what [number] failed attempts at [thing] taught me.
 - If you only remember one thing about [topic], make it this.
 
 **Video:** say the lesson's subject, not the lesson itself; make them stay for it.
@@ -182,12 +182,12 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 
 **Use when** the story turns on a hard choice, a risk taken, or a path chosen differently.
 
-- Two options: [A] or [B]. Here's what I chose.
+- I had two choices, [A] or [B]. Here's what I chose.
 - Walking away from [opportunity] was harder than I expected.
-- I said no to [opportunity] for one reason.
-- The decision I put off for [timeframe].
+- I said no to [opportunity] for one important reason.
+- This was the decision I kept putting off.
 - I took a risk that could have cost me [consequence].
-- Why I chose the harder path with [business/project].
+- Here's why I chose the harder path with [business/project].
 - I almost said yes to [offer]. One question stopped me.
 - Looking back, [decision] was the one that mattered.
 - I turned down [specific amount/client/offer]. I'd do it again.
@@ -206,7 +206,7 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 - Everyone in [field] repeats [myth]. Here's why it's wrong.
 - The [field] advice I hear most is the one that hurts [audience] most.
 - [Myth]? I've [done thing] [number] times. It's not true.
-- What [audience] gets wrong about [topic], and what to do instead.
+- Here's what [audience] gets wrong about [topic].
 - No, [myth]. Here's what [specific test/result] showed me.
 
 **Video:** say the myth as if you believe it, then cut to the proof.
@@ -214,20 +214,20 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 
 ## 12. Number/List
 
-**Use when** the story has a specific count, timeframe, or measurable result that makes the promise concrete.
+**Use when** the count itself is the story (a specific number of things, days, or attempts). If the number is just a result, use another category and save the number for the line after the hook.
 
 - [Number] things I wish I knew before [milestone].
 - After [number] days of [action], here's what happened.
 - I [did thing] [number] times. Here's what I learned.
 - [Number] mistakes I made with [topic] so you don't have to.
 - [Number] [clients/orders/projects] in, these [number] things still surprise me.
-- What changed after [timeframe] of [habit].
+- Here's what changed after [timeframe] of [habit].
 - [Number] signs you're ready to [next step].
 - The [number]-minute [habit/check] that saved my [result].
-- [Specific number] [unit]. That's what [thing] really took.
+- People think [thing] takes [guess]. It took me [real amount].
 
-**Video:** put the number on screen in large text; odd, specific numbers (7, 43, 112) beat round ones.
-**Post:** the number goes first; list posts need the count in line one.
+**Video:** the count is the hook here, so put it on screen in large text; odd, specific numbers (7, 43, 112) beat round ones.
+**Post:** list posts need the count in line one; keep the results themselves for later lines.
 
 ## 13. Question
 
@@ -250,7 +250,7 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 
 **Use when** the story explains why the creator started, or why they do the work their particular way.
 
-- Why I started [business/practice].
+- Here's why I started [business/practice].
 - I never planned to [do this work]. Then [moment].
 - [Business] started with [small, specific beginning].
 - The real reason I do [thing] the way I do.
@@ -271,10 +271,10 @@ Templates are skeletons, not finished lines. Fill every blank with a real detail
 - I've [done thing] for [number] [clients/people]. Here's the pattern.
 - [Number] [projects/clients] later, this is what most people get wrong.
 - I've seen [number] [things]. Only [small number] did [thing] right.
-- [Milestone]. Here's what it actually took.
+- I just hit [milestone]. Here's what it actually took.
 - [Number] years in [field] taught me one thing about [topic].
 - I've made every mistake in [area] at least once. Here's the one that matters.
-- From [humble start number] to [milestone number]: what changed.
+- I went from [humble start] to [milestone]. Here's what changed.
 - I've [answered/handled] [number] [questions/cases] about [topic]. This one comes up most.
 
 **Video:** say the number once, fast; the credential earns the next three seconds, the story keeps them.
