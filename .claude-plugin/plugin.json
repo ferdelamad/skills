@@ -9,5 +9,7 @@
   "repository": "https://github.com/ferdelamad/skills",
   "license": "MIT",
   "keywords": ["skills", "engineering", "marketing"],
-  "skills": []
+  "skills": [
+    "./skills/marketing/storytelling-hooks"
+  ]
 }
