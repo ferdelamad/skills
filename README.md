@@ -2,6 +2,8 @@
 
 Agent skills I use for engineering, marketing, and whatever comes next. Each skill is a small, self-contained folder you can read, copy, and adapt.
 
+Follow me on X for new skills and updates: [@imdeadcode](https://x.com/imdeadcode)
+
 ## Categories
 
 | Category | What's in it |
